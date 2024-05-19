@@ -1,0 +1,3 @@
+
+// boot up a server if not using Herd
+php artisan serve
